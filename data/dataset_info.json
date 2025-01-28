@@ -1,6 +1,6 @@
 {
     "reasonvqa": {
-      "file_name": "llama_factory/dataset.json",
+      "file_name": "../llama_factory/dataset.json",
       "formatting": "sharegpt",
       "columns": {
         "messages": "conversations",
