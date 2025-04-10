@@ -6,5 +6,13 @@
         "messages": "conversations",
         "images": "images"
       }
-  }
+  },
+    "nuScenes": {
+      "file_name": "nuscenes.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "conversations",
+        "images": "images"
+      }
+    }
 }
