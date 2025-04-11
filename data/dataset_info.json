@@ -7,7 +7,7 @@
         "images": "images"
       }
   },
-    "nuScenes": {
+    "nuscenes": {
       "file_name": "nuscenes.json",
       "formatting": "sharegpt",
       "columns": {
